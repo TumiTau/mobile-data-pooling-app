@@ -1,2 +1,3 @@
 # mobile-data-pooling-app
 An app that pools and distributes mobile data to subscribers
+Imagine an app that gives mobile data to entrepreneurs who have submitted good website and app creation proposals. Entrepreneurs pay a small monthly subscription fee of mobile data which is pooled and distributed to the best projects which are voted for monthly. The data will be from different cellphone network providers. For example in South Africa the cellphone network providers are Vodacom, MTN, Cell C and Telkom.In Britain the providers Vodaphone, EE and O2. The data from different providers will be pooled in one app and then distributed out. @msatranjr is this possible? Can you help please me develop this app?
